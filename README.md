@@ -27,7 +27,7 @@ An intelligent chatbot that performs **RAG (Retrieval Augmented Generation)** on
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/excel-rag.git
+git clone https://github.com/piktx/excel-rag.git
 cd excel-rag
 
 # Install dependencies
