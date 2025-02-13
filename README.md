@@ -5,7 +5,7 @@
 [![Ollama](https://img.shields.io/badge/Ollama-01A3A8?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai/)
 [![LocalAI](https://img.shields.io/badge/100%25-LocalAI-01C4C8?style=for-the-badge)](https://localai.io/)
 
-An intelligent chatbot that performs **RAG (Retrieval Augmented Generation)** on Excel files using cutting-edge local AI models.
+An intelligent chatbot that performs **RAG (Retrieval Augmented Generation)** on Excel files using cutting-edge AI models.
 
 ## 🚀 Features
 - 🔍 **Excel File Analysis**: Upload and chat with XLSX/XLS/CSV files
